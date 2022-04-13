@@ -29,9 +29,9 @@ organisieren organisiert planen
 abartig abstrus absurd albern armselig arrogant doof dumm bescheuert schwachsinnig
 bekomme bekommen bekommst bekommt
 wusste wisst
-wurscht scheissegal
+egal wurscht scheissegal scheißegal wuascht
 fragen fragt frage
-scheiss scheisse
+scheiss scheisse kacke scheiße
 dr professor
 bemerken bemerkt
 cool toll tolle toller tolles geil genial klasse hammer prima mega krass
@@ -62,34 +62,34 @@ finanzielle wirtschaftliche
 kulturelle kulturellen soziale sozialen sozialer 
 strukturelle gesellschaftliche gesellschaftlichen
 gang geh gegangen gehts ging gings gehe ginge
-warm warme warmer warmen warmes
+warm warme warmer warmen warmes wärmer
 negativ negative negativen
 positive positiven positiv
 technische technischen technologische technologischen
 subvention subventionen subventioniert
 abwahl bundestagswahl neuwahl neuwahlen wahl wahlen
 cdu cducsu csu
+braunkohle kohle kohlenstroff kohlekraftwerken 
 mutterpartei partei parteien
 aufregen echauffieren
+akws atomenrgie atomkraft kernenergi kernkraft kernkraftwerke
 doppelmoral heuchelei
+biagasanlagen biosprit
 aktuell momentan aktuell momentan aktuelle aktuellen momentanen
-akws atomenergie atomkraft kernenergie kernkraft kernkraftwerke
-biogasanlagen biosprit 
-braunkohle kohle kohlenstoff kohlekraftwerken
-ch4 co2 co₂ methan treibhausgas treibhausgase kohlendioxid treibhausgasemissionen emissionen
+co2 co₂ methan treibhausgas treibhausgase kohlendioxid treibhausgasemissionen CO²emissionen co2emissionen klimagas co₂
 energieerzeugung energien energiequelle energieversorgung brennstoffe
 solaranlagen solarenergie
 kohleausstieg energiewende
-umweltpolitik klimapolitik
-klimabilanz klimaziele
+umweltpolitik klimapolitik umweltminister umweltministerin
+klimabilanz klimaziele klimaabkommen klimaschutzabkommen
 treibhauseffekt treibhauseffekts
-klimaschutz nachhaltigkeit naturschutz ressourcenschutz umweltschutz 
+klimaschutz klimaschutzes naturschutz umweltschutz 
 auto autos 
 fahrrad rad
 lkw lastkraftwagen
 fahrzeug fahrzeuge
 autofahrer fahrer kraftfahrer
-autoindustrie autokonzerne
+autoindustrie autokonzerne automobilwerker
 esse essen isst
 bananen brot butter kartoffeln salat  
 gegrillt gekocht kochen 
@@ -112,13 +112,133 @@ eltern familien
 jugendliche jugendlichen kinder
 erneuerbare erneuerbaren
 fakt tatsache umstand fakten tatsachen
-fliegen fliegt flieger flug flugzeug flugzeuge
+fliegen fliegt flieger flug flugzeug flugzeuge inlandsflüge langstreckenflüge fluggverkehr
 global globale globalen globaler weltweite
 grundvoraussetzung voraussetzung voraussetzungen
-sinnvoll machbar
+sinnvoll machbar sinnvolle vernünftige
 klimaanlage klimaanlagen
 monat monaten
 tage tagen
 woche wochen
 langstrecke langstrecken
 produkte produkten
+abgebaut aufgebaut gebaut
+abschaffen aufhört aufhören einschränken stoppen verhindern abschalten ausschalten
+einwanderung einwanderungspolitik
+anständigen vernünftigen
+demonstranten demonstrationen demo demos demonstrieren demonstriert proteste protesten protestieren klimademo klimademos klimastreik
+einwanderung einwanderungspolitik
+kunststoffe plastik
+masseneinwanderung massenmigration migranten migration
+maßnahme maßnahmen
+meinungsfreiheit menschenrechte
+polizei polizisten
+regeln regelung regelungen regulierung
+regierung regierungen
+staat staaten staatengemeinschaf
+subvention subventionen
+unfähig ungeeignet
+ökonomen wirtschaft finanzielle wirtschaftliche
+ökonomie
+auslöschen morden töten vernichten
+strasse straße straßen
+beantworten beantwortet
+becher topf
+begriffe definitionen parameter variablen zusammenhänge
+beine füsse
+debatte debatten diskussion diskussionen
+blätter bäume
+blödsinn irrsinn quatsch schwachsinn stuss unfug unsinn
+dreckiger dummer ekelhafter kranker unlustiger
+dümmer schlimmer
+erderwärmung klimaerwärmung klimaveränderung klimawandel climatechange
+erkrankung krankheit
+erschweren gefährdet
+geraten gerät
+gestoppt verhindert
+gesundheitsschädlich schädlich
+grundschüler jugendliche lehrer schüler
+grösser größer stärker
+idiotische sinnlose unnötige
+kausalität korrelation
+kirche evangelischen katholischen
+kommenden nächsten
+kontrollieren überwachen
+kälter kühl kühler
+regnet verregnet
+länder ländern regionen
+gewählt wiedergewählt
+plant verspricht
+realität wirklichkeit
+tobt wütet
+vereinbaren vereinbart
+vernichtung zerstörung
+weltkrieg weltkriegs
+zwangsläufig zwingend
+überflutet überschwemmt
+ausstoß austoss
+baum bäume bäumen bäumepflanzen
+einschränkung einschränkungen
+elektroauto elektromobilität
+erderwärmung erwärmung
+fff fridayforfuture fridays fridays4future parentsforfuture scientists4future
+flughafen flughäfen
+flüchtling flüchtlinge flüchtlingen
+geschäfte geschäften
+hartz4 hartziv
+klimaflüchtling klimaflüchtlinge klimaflüchtlingen
+klimaheuchelei klimaheuchler
+klimahype klimahysterie klimahysteriker
+klimakrise klimakriese klimanotstand klimanotstandes
+klimapaket klimapakt klimapcket klimaplan klimapäckchen
+klimaleugner klimaleugnerkacke klimaleugnung klimawandelleugner wissenschaftsleugnung 
+klimaschutzmaßnahmen maßnahme maßnahmen maßnahmenplan maßnahmwen
+paläontologe paläontologen
+phänomen phänomens
+parisagreement paris_agreement
+priorität prioritäten
+scheinargumente scheindiskussion
+schulschwänzen schulschwänzerin schwänzen geschwänzt
+schön schönes
+greta thunbergs thunberg greta_thunberg
+verschwörung verschwörungstheorie verschwörungsuniversum
+vorschläge vorschlägen
+benötigen benötigt
+beschäftige beschäftigt
+böse bösen
+erhöhen erhöht erhöhte erhöhter
+erkläre erklären erklärt
+ernähren ernährt
+fürchte fürchten
+grün grüne grünen grüner grünes grünt
+höchsten höchster höher höhere höheren
+klimaschonendes klimaschützend
+kämpfen kämpft
+kümmern kümmert
+natürliche natürlichen natürlicher
+nächster nächstes
+schädigen schädigt schädliche schädlichen umweltschädlich
+umweltschädlichen
+schützen schützend schützt
+tier tiere tieren
+verbrenner verbrennungsmotor
+tödlich tötliche
+wissenschaft wissenschaftler wissenschaftlern biologen forscher
+zerstören zerstört
+zukünftig zukünftige zukünftiger
+zukunftsfähig zukunftsfähige
+zuständig zuständigen
+zusätzlich zusätzliche
+zuverlässig zuverlässige zuverlässigen
+zählen zählt
+ändert änderung
+ärmel ärmeln
+öl ölprodukte
+ölheizung ölheizungen
+österreich österreicher
+ändern änderst ändert änderte
+öffentl öffentli öffentlich öffentliche öffentlichen
+überfordert überforderte
+überlegen überlegt
+heuschrecken insekten
+tierarten lebewesen arten

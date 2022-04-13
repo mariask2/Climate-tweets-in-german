@@ -1368,7 +1368,8 @@ sogar
 sogleich
 solange
 solc
-solc hen
+solc
+hen
 solch
 solche
 solchem
@@ -1969,27 +1970,121 @@ post
 99
 00
 02
-absolut vollkommen
-absolute absoluter echter
-al el
-angesichts trotz
-behaupte denke erwarte glaube glaubt hoffe hoffen hofft meint
-denken denkt glauben
-deutlich wesentlich
-diverse diversen einzelne einzelnen hunderte unterschiedliche unterschiedlichen verschiedene zahllose zahlreiche
-erstens zweitensgenauso oh wahrscheinlich
-absolut vollkommen
-absolute absoluter echter
-hmm jaaa
+absolut
+vollkommen
+absolute
+absoluter
+echter
+al
+el
+angesichts
+trotz
+behaupte
+denke
+erwarte
+glaube
+glaubt
+hoffe
+hoffen
+hofft
+meint
+denken
+denkt
+glauben
+deutlich
+wesentlich
+diverse
+diversen
+einzelne
+einzelnen
+hunderte
+unterschiedliche
+unterschiedlichen
+verschiedene
+zahllose
+zahlreiche
+erstens
+zweitensgenauso
 oh
-behaupte bezweifeln denke erwarte glaube glaubt hoffe hoffen hofft meint
-bezeichnet nennt
-deutlich wesentlich
-diverse diversen einzelne einzelnen hunderte unterschiedliche
-unterschiedlichen verschiedene zahllose zahlreiche
-echte echten wirkliche
-erstens zweitens erstens zweitens
-fokus mittelpunkt vordergrund
-gegenteil grunde uebrigen
-hashtag kommentare kommentaren posts tweets
-herr herrn
+wahrscheinlich
+absolut
+vollkommen
+absolute
+absoluter
+echter
+hmm
+jaaa
+oh
+behaupte
+bezweifeln
+denke
+erwarte
+glaube
+glaubt
+hoffe
+hoffen
+hofft
+meint
+bezeichnet
+nennt
+deutlich
+wesentlich
+diverse
+diversen
+einzelne
+einzelnen
+hunderte
+unterschiedliche
+unterschiedlichen
+verschiedene
+zahllose
+zahlreiche
+echte
+echten
+wirkliche
+erstens
+zweitens
+erstens
+zweitens
+fokus
+mittelpunkt
+vordergrund
+gegenteil
+grunde
+uebrigen
+hashtag
+kommentare
+kommentaren
+posts
+tweets
+herr
+herrn
+achso
+jaja
+joa
+öhm
+ausschliesslich
+ausschließlich
+betreffen
+betrifft
+hä
+häh
+jup
+nene
+außer
+außerdem
+thema
+fragen
+fragt
+frage
+verstand
+verstanden
+verstehe
+verstehen
+versteht
+juhu
+nö
+nope
+wow
+sorry
+ok

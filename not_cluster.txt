@@ -208,8 +208,25 @@ krieg
 linksextremen
 militante
 relativ
-1945 1950 1960 1961 1972 1978 1985 1986 1988 1990 1997 1999 2005 2006 2007 2012 2013
-abtreibung sterbehilfe
+1945
+1950
+1960
+1961
+1972
+1978
+1985
+1986
+1988
+1990
+1997
+1999
+2005
+2006
+2007
+2012
+2013
+abtreibung
+sterbehilfe
 koalition
 piraten
 afd
@@ -217,14 +234,19 @@ fdp
 spd
 volkspartei
 regierungsparteien
-abwasser becken erdreich
+abwasser
+becken
+erdreich
 aktionismus
 polizeigewalt
 aktivisten
 eeg
-gesundheit gigatonnen
-sauerstoff schwefeldioxid
-wasserstoff wirtschaftspolitik
+gesundheit
+gigatonnen
+sauerstoff
+schwefeldioxid
+wasserstoff
+wirtschaftspolitik
 photovoltaik
 kohleverstromung
 versorgungssicherheit
@@ -238,53 +260,167 @@ erdgas
 ausgrenzung
 busfahrer
 radfahrer
-mittelstand politik
+mittelstand
+politik
 fisch
 kaffee
 plastikbecher
 fleisch
 wein
 lecker
-baum vorgarten
-berlin hamburg potsdam
-besserverdienende einkommen geringverdiener grundsicherung
+baum
+vorgarten
+berlin
+hamburg
+potsdam
+besserverdienende
+einkommen
+geringverdiener
+grundsicherung
 sozialhilfe
 heilbar
-brandenburg dresden hessen nrw niedersachsen sachsen
-brd ddr sed
+brandenburg
+dresden
+hessen
+nrw
+niedersachsen
+sachsen
+brd
+ddr
+sed
 merkel
-china indien usa
-christentum islam
+china
+indien
+usa
+christentum
+islam
 konjunktur
-freiheit gerechtigkeit
-frankreich griechenland kontinent polen portugal ukraine
-dezember november september
-diesel drehmoment hubraum ps v6
-diktatur faschismus kapitalismus kommunismus marktwirtschaft planwirtschaft sozialismus
-einfacher schwieriger
+freiheit
+gerechtigkeit
+frankreich
+griechenland
+kontinent
+polen
+portugal
+ukraine
+dezember
+november
+september
+diesel
+drehmoment
+hubraum
+ps
+v6
+diktatur
+faschismus
+kapitalismus
+kommunismus
+marktwirtschaft
+planwirtschaft
+sozialismus
+einfacher
+schwieriger
 kindergarten
 grundschule
-erde mond planeten
-extremisten rebellen terroristen truppen
-fahrbahnen kreuzungen radwege
-falschaussage totschlag
-frankfurt mainz mainzer
-freitag montag wochenende
+erde
+mond
+planeten
+extremisten
+rebellen
+terroristen
+truppen
+fahrbahnen
+kreuzungen
+radwege
+falschaussage
+totschlag
+frankfurt
+mainz
+mainzer
+freitag
+montag
+wochenende
 sustainability
-herbst sommer
-innsbruck klagenfurter linz wien
+herbst
+sommer
+innsbruck
+klagenfurter
+linz
+wien
 jahren
-jahrhunderten jahrtausenden jahrzehnten
+jahrhunderten
+jahrtausenden
+jahrzehnten
 krieg
 massentierhaltung
 glutenfreien
 luftdruck
-mdr swr
+mdr
+swr
 rekuperation
-norden osten
+norden
+osten
 wiesn
-planlosigkeit unfairness
-politisch gesellschaftlich ideologisch politisch sozial
-rasant stetig
-sachargumente ernstnehmen
-schreibt zitiert
+planlosigkeit
+unfairness
+politisch
+gesellschaftlich
+ideologisch
+politisch
+sozial
+rasant
+stetig
+sachargumente
+ernstnehmen
+schreibt
+zitiert
+alexander
+baur
+bock
+braun
+dennis
+dieter
+dr
+eckart
+emma
+flach
+florian
+frank
+greta
+katrin
+kirsten
+klaus
+lars
+lehrstuhl
+lieb
+luisa
+matthias
+maurer
+merz
+oliver
+patrick
+paul
+prof
+professor
+rothe
+scholz
+schulze
+schuster
+sigi
+steffen
+tim
+walter
+zo
+fischehund
+lebensraum
+pferde
+pflanzen
+samen
+schafen
+wildschweine
+nachhaltigkeit
+ressourcenschutz
+ch4
+nzufrieden
+zufrieden
+umfrage
