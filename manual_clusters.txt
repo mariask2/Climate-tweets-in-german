@@ -76,7 +76,7 @@ akws atomenrgie atomkraft kernenergi kernkraft kernkraftwerke
 doppelmoral heuchelei
 biagasanlagen biosprit
 aktuell momentan aktuell momentan aktuelle aktuellen momentanen
-co2 co₂ methan treibhausgas treibhausgase kohlendioxid treibhausgasemissionen CO²emissionen co2emissionen klimagas co₂
+co2 co₂ CH4 methan treibhausgas treibhausgase kohlendioxid treibhausgasemissionen CO²emissionen co2emissionen klimagas co₂
 energieerzeugung energien energiequelle energieversorgung brennstoffe
 solaranlagen solarenergie
 kohleausstieg energiewende
@@ -116,7 +116,6 @@ fliegen fliegt flieger flug flugzeug flugzeuge inlandsflüge langstreckenflüge 
 global globale globalen globaler weltweite
 grundvoraussetzung voraussetzung voraussetzungen
 sinnvoll machbar sinnvolle vernünftige
-klimaanlage klimaanlagen
 monat monaten
 tage tagen
 woche wochen
@@ -181,7 +180,7 @@ baum bäume bäumen bäumepflanzen
 einschränkung einschränkungen
 elektroauto elektromobilität
 erderwärmung erwärmung
-fff fridayforfuture fridays fridays4future parentsforfuture scientists4future
+fff fridaysforfuture fridays fridays4future parentsforfuture scientists4future fridayforfuture fridays_for_future
 flughafen flughäfen
 flüchtling flüchtlinge flüchtlingen
 geschäfte geschäften
@@ -223,7 +222,7 @@ schützen schützend schützt
 tier tiere tieren
 verbrenner verbrennungsmotor
 tödlich tötliche
-wissenschaft wissenschaftler wissenschaftlern biologen forscher
+wissenschaft wissenschaftler wissenschaftlern biologen forscher klimaforscher klima_forscher
 zerstören zerstört
 zukünftig zukünftige zukünftiger
 zukunftsfähig zukunftsfähige
@@ -242,3 +241,4 @@ zählen zählt
 überlegen überlegt
 heuschrecken insekten
 tierarten lebewesen arten
+eike europäisches_institut_für_klima_und_energie
